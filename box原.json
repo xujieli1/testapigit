@@ -30,7 +30,7 @@
 "sites":[
 {
             "key": "js豆瓣1",
-            "name": "🌈公众号[宝盒没宝],全接口AI过滤广告",
+            "name": "🌈公众号[龙哥玩软件],全接口AI过滤广告",
             "type": 3,
             "api": "https://gitlab.com/guot55/bh/-/raw/main/lib/drpy2.min.js",
             "ext": "https://gitlab.com/guot55/bh/-/raw/main/lib/douban.js",
@@ -48,7 +48,7 @@
 		},
      {"key":"drpy_js_荐片","name":"🌙荐片|磁力","type":3,"api":"https://gitlab.com/guot55/bh/-/raw/main/lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/jp.js"},
  {"key": "csp_XBPQ_6V",
-  "name": "🌙宝盒|4K",
+  "name": "🌙龙哥玩软件|4K",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
